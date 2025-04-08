@@ -53,6 +53,8 @@ The model classifies images into one of the following classes:
 
 ## 🚀 Getting Started
 
+### Ensure python version 3.10.12 or above 3.10
+
 ### 1. Clone the repository
 
 ```bash
