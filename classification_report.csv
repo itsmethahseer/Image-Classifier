@@ -1,0 +1,19 @@
+,precision,recall,f1-score,support
+Excavatedpit,1.0,1.0,1.0,30.0
+Land,1.0,1.0,1.0,29.0
+boundary,1.0,1.0,1.0,29.0
+chimmney,1.0,1.0,1.0,22.0
+concretecol,1.0,1.0,1.0,30.0
+concretefoot,1.0,1.0,1.0,31.0
+coworker,1.0,1.0,1.0,27.0
+earthmover,1.0,1.0,1.0,30.0
+powerlines,1.0,1.0,1.0,29.0
+residential,1.0,1.0,1.0,30.0
+solarpanel,1.0,1.0,1.0,30.0
+staircase,1.0,1.0,1.0,30.0
+towercrane,1.0,1.0,1.0,29.0
+trees,1.0,1.0,1.0,32.0
+watertanks,1.0,1.0,1.0,30.0
+accuracy,1.0,1.0,1.0,1.0
+macro avg,1.0,1.0,1.0,438.0
+weighted avg,1.0,1.0,1.0,438.0
